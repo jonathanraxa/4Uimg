@@ -1,0 +1,101 @@
+.image_data {
+    text-align: left;
+    margin-top: -25px;
+}
+.col-md-12 {
+    width: 100%;
+    text-align: left;
+}
+input#name-submit {
+    color: #fff;
+    background-color: #fed136;
+    border-color: #C7C3B5;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+section#portfolio {
+    background-color: #F9F9F9;
+}
+section h3.section-subheading {
+    font-size: 16px;
+    font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: none;
+    font-style: italic;
+    font-weight: 400;
+    margin-bottom: 55px;
+}
+.foot {
+    background-color: black;
+    opacity: 50%;
+    bottom: 0;
+    width: 100%;
+}
+span.results_total {
+    font-size: 19px;
+}
+.sorting {
+    font-size: 20px;
+}
+button#close {
+    width: 200px;
+    height: 70px;
+    font-size: 17px;
+}
+#portfolio .portfolio-item .portfolio-link {
+    display: block;
+    position: relative;
+    max-width: 400px;
+    margin: 0 auto;
+    height: 270px;
+}
+a#purchase {
+    width: 100%;
+    padding-top: 8px;
+    font-size: 23px;
+    margin-bottom: 17px;
+}
+div#bounty {
+    margin-top: 60px;
+}
+a.des {
+    color: black;
+    text-decoration: none;
+}
+button.btn.btn-default.cancel {
+    margin-left: 10px;
+}
+span#whats_this_2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+div#radio {
+    margin-bottom: 38%;
+}
+label.text-muted.pricing_opts {
+    margin-bottom: 10px;
+}
+.portfolio-modal .modal-content p {
+    margin-bottom: 0px;
+}
+p.info {
+    font-size: 14px;
+    padding-bottom: 16px;
+}
+span#or {
+    margin-left: -49px;
+    margin-right: 12px;
+    font-weight: bold;
+    font-size: 20px;
+}
+h1#artwork {
+    margin-top: -80px;
+    font-size: 55px;
+}
+#portfolio .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: rgba(202, 201, 201, 0.3);
+    text-align: center;
+    padding: 25px;
+}

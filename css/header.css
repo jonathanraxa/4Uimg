@@ -1,0 +1,128 @@
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+
+
+}
+
+.navbar-right {
+    background-color: #222222;
+}
+
+.entry-row { 
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+
+
+/* SIGN UP FORM UNDER REGISTER/LOGIN TO 4UIMG*/
+.radio {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+p.login-disclaimer {
+    margin-left: 35px;
+}
+
+
+.navbar-default {
+    background-color: #222;
+    padding: 10px 0;
+}
+li:hover {
+    background-color: #fed136;
+}
+.navbar-default .nav li a:hover, .navbar-default .nav li a:focus {
+    color: #000000;
+    outline: 0;
+}
+span.nav_text {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #FFF;
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+span#username {
+    color: #FED136;
+}
+.checkbox {
+    margin-top: 13px;
+}
+#signin_login_modal {
+    width: 60%;
+    height: 100%;
+}
+input#email_signup {
+    width: 93%;
+    margin-left: 15px;
+}
+
+button.btn.btn-default.cancel {
+    left: -55%;
+    position: relative;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    background-color: rgba(253, 213, 14, 0.98);
+}
+
+.navbar-default .nav li a:focus {
+    color: #000000;
+    outline: 0;
+}
+.navbar-nav>li>.dropdown-menu {
+    margin-top: 0;
+    background-color: rgb(66, 66, 66);
+}
+div#top {
+    width: 40%;
+    margin-left: 140px;
+    margin-top: 10px;
+}
+button.btn.btn-default.cancel {
+    left: 0;
+    position: absolute;
+}
+
+.navbar-default .nav li a {
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 1px;
+    color: #fed136;
+}
+.dropdown-menu>li>a {
+    display: block;
+    padding: 10px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #333;
+    white-space: nowrap;
+}
+label#label {
+    margin-left: -27px;
+    padding-bottom: 8px;
+    padding-top: 15px;
+}
+.btn-default {
+    color: #333;
+    background-color: #fed136;
+    border-color: #000;
+}
+button.btn.btn-default.cancel {
+    color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
